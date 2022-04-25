@@ -1,0 +1,96 @@
+#logotipo{
+    width: 100px;
+    height: 60px;
+}
+#acer{
+    padding: 30px;
+    background-color: #E8EC6D;
+    color: #16056A;
+    font-size:16px;
+    text-align: justify; 
+}
+.imge{
+    width: 200px;
+    height: 200px;
+}
+p{
+    margin: 0;
+    font-size: 20px;
+    text-align: justify;
+
+}
+.com{
+    background-color: #F8A736;
+}
+#inf{
+    width: 110px;
+    transform: translatex(-50%);  
+    margin-left: 50%;
+}
+footer{
+    padding: 30px;
+    background-color: #E8EC6D;
+    color: #16056A;
+    font-size:16px;
+    text-align: justify;
+    margin: 20px;
+    text-align: center;
+    font-size: xx-large;
+}
+#log{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #d0b800;
+    color: #797878;
+    width: 30%;
+    height: 40px;
+    margin-left: 50%;
+    border-radius: 10px;
+    margin-top: 10px;
+    transform: translateX(-50%);    
+}
+#log:hover{
+    background-color: antiquewhite;
+    color: black;
+}
+.controles{
+    vertical-align: center;
+    width: 50%;
+    height: 40px;
+    font-size: 20px;
+    font-style: italic;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    resize: none;
+    text-align: center;
+}
+.textlog{
+    vertical-align: center;
+    width: 50%;
+    height: 40px;
+    font-size: 20px;
+    font-style: italic;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    resize: none;
+    text-align: center;
+}
+.txtcan {
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    width: 30px;
+}
+.ima {
+    width: 110px;
+    margin-left: 50%;
+    transform: translatex(-50%);   
+}
+.canpro {
+    text-align: right;
+    font-size: 10px;
+}
